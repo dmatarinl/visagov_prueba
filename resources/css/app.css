@@ -1,0 +1,34 @@
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+/* Estilos generales para el navbar */
+
+.navbar {
+    background-image: linear-gradient(to right, #3275b5, #2a69ac) !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    color: black;
+    font-weight: 500;
+}
+.nav-link {
+    color: white; 
+    margin-right: 20px; 
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #000;
+}
+
+.navbar-logo {
+    height: 50px;
+    width: auto;
+}
+
+#charNum {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+  }
+  
