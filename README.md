@@ -7,7 +7,7 @@ Menú de Navegación interactivo con:
 - Página de inicio Home
 - Libros
 - Contacto
-- Servicio multi lenguaje para los Idiomas Español e Inglés que modificarán tanto el 
+- Servicio multi lenguaje para los Idiomas Español e Inglés que modificarán tanto el idioma completo de la app (Incluido navbar, mensaje de error)
 ## Tecnologías Utilizadas
 
 - Docker & Docker Compose
